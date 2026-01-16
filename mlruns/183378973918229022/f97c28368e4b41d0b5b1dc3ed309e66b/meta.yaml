@@ -1,0 +1,14 @@
+artifact_uri: file:///C:/Users/SREELAKSHMIMV/Desktop/heart-disease-mlops-mlflow/mlruns/183378973918229022/f97c28368e4b41d0b5b1dc3ed309e66b/artifacts
+end_time: 1768536565781
+entry_point_name: ''
+experiment_id: '183378973918229022'
+lifecycle_stage: active
+run_id: f97c28368e4b41d0b5b1dc3ed309e66b
+run_name: EDA_Run
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1768536563032
+status: 3
+tags: []
+user_id: SREELAKSHMIMV
